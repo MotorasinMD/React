@@ -1,0 +1,2 @@
+App.jsx ana komponent
+Eskiden class component yapısı kullanılıyordu. Şimdi yapılan herşey function olarak yazılıyor.

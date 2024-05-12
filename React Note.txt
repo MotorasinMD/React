@@ -1,0 +1,12 @@
+true false ve undefiened değerleri react jsx te ekrana yansıtılamaz.
+
+rafc kısayolu component oluşturuyor.
+ffc de komponent oluşturuyor.
+
+useMemo cachelemeyi ve daha hızlı veri getirmeyi sağlıyor.
+useCallback olduğu gibi function çağırıyor.
+useMemo değere atıyor değeri çağırıyor.
+
+
+
+npm intall react-icons --save;

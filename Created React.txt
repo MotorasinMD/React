@@ -1,0 +1,11 @@
+npx create-react-app FApp
+npm create vite@latest
+    Reactproject //project name
+    react //react
+    javascript ve typescript seçeneği sunuyor.
+    projoe oluşturulduktan sonra npm i çalıştırılmalı.
+    npm run dev çalıştırır.
+
+npx create-next-app
+npx create-remix
+npx create-gatsby
