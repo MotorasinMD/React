@@ -10,3 +10,5 @@ useMemo değere atıyor değeri çağırıyor.
 
 
 npm intall react-icons --save;
+
+npm install react-router-dom
